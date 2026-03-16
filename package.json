@@ -1,0 +1,26 @@
+{
+  "name": "backend-learning",
+  "version": "1.0.0",
+  "description": "project",
+  "homepage": "https://github.com/geeky-may/Backend-Learning#readme",
+  "bugs": {
+    "url": "https://github.com/geeky-may/Backend-Learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeky-may/Backend-Learning.git"
+  },
+  "license": "ISC",
+  "author": "Manku",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
